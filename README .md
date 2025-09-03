@@ -19,7 +19,7 @@ The script extracts **Roll Number, Name, Total Marks, Percentage, and CGPA** for
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Friendlysiva143/Student_results_scrapping
+   git clone https://github.com/Friendlysiva143/Student_results_scrapping.git
    cd student_results_scraper
    ```
 
@@ -56,7 +56,7 @@ enter end roll_no: 110
 The script will process the roll numbers and save results in a file like:
 
 ```
-R20_CSE_Y22_Results.csv
+R20_CS_Y22_Results.csv
 ```
 
 ---
