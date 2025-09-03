@@ -65,9 +65,9 @@ R20_CS_Y22_Results.csv
 
 | ROLL NO    | NAME        | TOTAL | PERCENTAGE | CGPA |
 |------------|-------------|-------|------------|------|
-| y22ACS101 | John Doe    | 2450  | 81.67%     | 8.3  |
-| y22ACS102 | Jane Smith  | 2320  | 77.33%     | 7.9  |
-| y22ACS103 | No data found | No data found | No data found | No data found |
+| Y22ACS101 | John Doe    | 2450  | 81.67%     | 8.3  |
+| Y22ACS102 | Jane Smith  | 2320  | 77.33%     | 7.9  |
+| Y22ACS103 | No data found | No data found | No data found | No data found |
 
 ---
 
