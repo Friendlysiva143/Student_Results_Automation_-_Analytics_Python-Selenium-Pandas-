@@ -1,7 +1,7 @@
 
-#  Student Results Scraper (BEC Bapatla)
+#  Student_Results_Automation_-_Analytics_Python-Selenium-Pandas-
 
-This Python project uses **Selenium** to automatically fetch student results from [BEC Bapatla Student Info Portal](http://becbapatla.ac.in:8080/STUDENTINFO/).  
+This Python project uses **Selenium** to automatically fetch student results from [Student Info Portal](http://URL/)  
 The script extracts **Roll Number, Name, Total Marks, Percentage, and CGPA** for a range of students and saves the data into a **CSV file**.
 
 ---
@@ -47,7 +47,7 @@ You will be prompted to enter details:
 ```
 enter regulation R20/R18/R14/R10: 20
 enter the year: 22
-enter branch IT/CSE(CS)/ECE(EC)/EEE(EE)/CIVI(CE)/MECHANICAL(ME)/DS/CB: CS
+enter branch IT/CSE/ECE/EEE/CIVI/MECHANICAL/DS/CB: CSE
 enter Regular(Y)/Lateral(L): Y
 enter start roll_no: 100
 enter end roll_no: 110
@@ -56,7 +56,7 @@ enter end roll_no: 110
 The script will process the roll numbers and save results in a file like:
 
 ```
-R20_CS_Y22_Results.csv
+R20_CSE_Y22_Results.csv
 ```
 
 ---
@@ -65,9 +65,9 @@ R20_CS_Y22_Results.csv
 
 | ROLL NO    | NAME        | TOTAL | PERCENTAGE | CGPA |
 |------------|-------------|-------|------------|------|
-| Y22ACS101 | John Doe    | 2450  | 81.67%     | 8.3  |
-| Y22ACS102 | Jane Smith  | 2320  | 77.33%     | 7.9  |
-| Y22ACS103 | No data found | No data found | No data found | No data found |
+| Y22CSE101 | John Doe    | 2450  | 81.67%     | 8.3  |
+| Y22CSE102 | Jane Smith  | 2320  | 77.33%     | 7.9  |
+| Y22CSE103 | No data found | No data found | No data found | No data found |
 
 ---
 
@@ -88,13 +88,7 @@ pip install pandas selenium
 
 ##  Notes
 
-- The script only works when the **BEC student info site** is online.  
+- The script only works when the **Certain College(Our) student info site** is online.  
 - Make sure your internet connection is stable.  
 - If "No data found" appears, it usually means the roll number does not exist or results are not uploaded yet.
-
----
-
-##  Author
-
-Developed by ** Siva PRASD ** 
-Feel free to fork and contribute 
+ 
