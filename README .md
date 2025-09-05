@@ -47,7 +47,7 @@ You will be prompted to enter details:
 ```
 enter regulation R20/R18/R14/R10: 20
 enter the year: 22
-enter branch IT/CSE/ECE/EEE/CIVI/MECHANICAL/DS/CB: CSE
+enter branch IT/CSE/ECE/EEE/CIVI/MECHANICAL/DS/CB: IT
 enter Regular(Y)/Lateral(L): Y
 enter start roll_no: 100
 enter end roll_no: 110
@@ -56,7 +56,7 @@ enter end roll_no: 110
 The script will process the roll numbers and save results in a file like:
 
 ```
-R20_CSE_Y22_Results.csv
+R20_IT_Y22_Results.csv
 ```
 
 ---
@@ -65,9 +65,9 @@ R20_CSE_Y22_Results.csv
 
 | ROLL NO    | NAME        | TOTAL | PERCENTAGE | CGPA |
 |------------|-------------|-------|------------|------|
-| Y22CSE101 | John Doe    | 2450  | 81.67%     | 8.3  |
-| Y22CSE102 | Jane Smith  | 2320  | 77.33%     | 7.9  |
-| Y22CSE103 | No data found | No data found | No data found | No data found |
+| Y22IT101 | John Doe    | 2450  | 81.67%     | 8.3  |
+| Y22IT102 | Jane Smith  | 2320  | 77.33%     | 7.9  |
+| Y22IT103 | No data found | No data found | No data found | No data found |
 
 ---
 
