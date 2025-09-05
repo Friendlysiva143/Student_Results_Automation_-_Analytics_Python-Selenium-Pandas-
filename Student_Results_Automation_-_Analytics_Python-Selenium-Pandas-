@@ -7,7 +7,7 @@
    "source": [
     "# Student Results Scraper (Selenium + Python)\n",
     "\"\"\"\n",
-    "Student Results Scraper (BEC Bapatla)\n",
+    "Student_Results_Automation_-_Analytics_Python-Selenium-Pandas-\n",
     "\n",
     "This script automates the process of fetching student results from the\n",
     "BEC Bapatla Student Info Portal using Selenium.\n",
